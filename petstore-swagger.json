@@ -54,8 +54,8 @@
                     }
                 }],
                 "responses": {
-                    "405": {
-                        "description": "Invalid input"
+                    "x-truong": {
+                        "description": "Invalid input x-extension blabla"
                     }
                 },
                 "security": [{
