@@ -28,6 +28,9 @@
       "format": "int32",
       "description": "User Status"
     }
+    "isExternalSchemaFile": {
+      "type": "boolean"
+    }
   },
   "xml": {
     "name": "User"
