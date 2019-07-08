@@ -437,7 +437,7 @@
                     "description": "Created user object",
                     "required": true,
                     "schema": {
-                        "$ref": "https://d913334.github.io/swagger-sample/schema1.json"
+                        "$ref": "https://d913334.github.io/swagger-sample/user-schema.json"
                     }
                 }],
                 "responses": {
